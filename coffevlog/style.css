@@ -1,0 +1,16 @@
+body{
+    font: 18px/1.5 sans-serif;
+    color: #000;
+}
+    
+table,
+td{
+    border: 1px solid #000;
+} 
+td{
+    padding: 30px 30px 30px 30px;
+}
+#table
+{
+    text-align: right;
+}
